@@ -27,3 +27,6 @@ yarn-error.log*
 
 # Временные файлы запуска
 qr-code.html
+
+# Собранные APK
+*.apk
