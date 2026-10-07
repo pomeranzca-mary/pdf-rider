@@ -29,6 +29,9 @@
         "projectId": "0c284760-ddde-4ca2-8269-cdbd370ea00e"
       }
     },
-    "owner": "zlotowlosa"
+    "owner": "zlotowlosa",
+    "plugins": [
+      "react-native-blob-util"
+    ]
   }
 }
