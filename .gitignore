@@ -1,0 +1,26 @@
+# Зависимости
+node_modules/
+
+# Сборка Expo
+.expo/
+dist/
+web-build/
+
+# Журналы
+npm-debug.log*
+yarn-error.log*
+
+# Metro (бандлер React Native)
+.metro-health-check*
+
+# Локальные настройки окружения
+.env
+.env.local
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+*.iml
